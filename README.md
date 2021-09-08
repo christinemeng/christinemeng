@@ -1,7 +1,6 @@
 # Christine Meng
-## Germantown Academy Student
-
-###### Professional Mitski Fan and Astronomy Enthusiast
+### Germantown Academy Student
+#### Professional Mitski Fan and Astronomy Enthusiast
 
 **Hello!** And welcome to my ✨ Github profile ✨ 
 I have some experience with Matplotlib and the basics of Python. 
