@@ -2,7 +2,8 @@
 ### Germantown Academy Student
 #### Professional Mitski Fan and Astronomy Enthusiast
 
-![avatar](https://user-images.githubusercontent.com/90335917/132956939-1dace7a7-6ba3-4e99-b859-59ce7fc433bb.jpg)
+![avatar](https://user-images.githubusercontent.com/90335917/132956958-07d0d398-c4d8-4e41-894d-75c313494d28.png)
+
 
 
 **Hello!** And welcome to my ✨   Github profile  ✨ 
