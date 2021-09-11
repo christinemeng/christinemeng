@@ -2,7 +2,8 @@
 ### Germantown Academy Student
 #### Professional Mitski Fan and Astronomy Enthusiast
 
-![alt text](file:///Users/christine/Desktop/avatar.jpg)
+![avatar](https://user-images.githubusercontent.com/90335917/132956939-1dace7a7-6ba3-4e99-b859-59ce7fc433bb.jpg)
+
 
 **Hello!** And welcome to my ✨   Github profile  ✨ 
 I have some experience with Matplotlib and the basics of Python. 
