@@ -2,6 +2,8 @@
 ### Germantown Academy Student
 #### Professional Mitski Fan and Astronomy Enthusiast
 
+![alt text](file:///Users/christine/Desktop/avatar.jpg)
+
 **Hello!** And welcome to my ✨   Github profile  ✨ 
 I have some experience with Matplotlib and the basics of Python. 
 I hope to take this class because I believe that in the future, Computer Science will be a very useful tool, no matter what career! 
