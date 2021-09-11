@@ -1,4 +1,4 @@
-# Christine Meng
+# :seedling: Christine Meng :seedling:
 ### Germantown Academy Student
 #### Professional Mitski Fan and Astronomy Enthusiast
 
