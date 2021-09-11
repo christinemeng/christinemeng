@@ -1,6 +1,5 @@
 # :seedling: Christine Meng (she/her) :seedling:
-### Germantown Academy Student
-#### Professional Mitski Fan and Astronomy Enthusiast
+### Germantown Academy Student. Professional Mitski Fan. Astronomy Enthusiast.
 
 ![avatar](https://user-images.githubusercontent.com/90335917/132956958-07d0d398-c4d8-4e41-894d-75c313494d28.png)
 
@@ -14,6 +13,6 @@ I hope to take this class because I believe that in the future, Computer Science
   2. Building a simple game 
   3. Gaining a better understanding of what code can do
   
-I am nervous about turning in assignments (especially the monthly interest projects) in on time
+I am nervous about turning in assignments (especially the monthly interest projects) in on time.
 
 That is all, **thanks for visiting**!
